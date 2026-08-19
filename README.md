@@ -1,13 +1,5 @@
 
 
-https://github.com/user-attachments/assets/9ee42a96-a5a7-42cc-aaaf-f0ba225f0cb4
-
-
-
-https://github.com/user-attachments/assets/a1368e33-e0db-44e7-84fd-5ab38db3f256
-
-
-
 https://github.com/user-attachments/assets/48cf0aaa-132f-4202-b2d7-aeffc79e153b
 
 # Automated Network Request Management using ServiceNow
